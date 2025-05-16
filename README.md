@@ -11,7 +11,7 @@ A Streamlit-powered chatbot that converts natural language queries into SQL and 
 
 ## Demo
 
-![Demo GIF or Screenshot Here](path/to/demo.gif)
+[![Demo GIF or Screenshot Here](path/to/demo.gif)](https://appapppy-5n5gnsxxggq5stafb8y5rv.streamlit.app/)
 
 ## Getting Started
 
