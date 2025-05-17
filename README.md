@@ -10,6 +10,7 @@ A Streamlit-powered chatbot that converts natural language queries into SQL and 
 - **Extensible Architecture:** Modular code for easy extension to other databases or models.
 
 ## [Try the Live Demo!](https://appapppy-5n5gnsxxggq5stafb8y5rv.streamlit.app/)
+![image](https://github.com/user-attachments/assets/2d625ae5-1328-4fcc-b31b-c182be3502ee)
 
 ## Getting Started
 
